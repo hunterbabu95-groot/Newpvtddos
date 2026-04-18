@@ -6,7 +6,7 @@ import datetime
 BOT_TOKEN = "8636170661:AAH8ELBjXm2B-Z4ZTBj8fMhmZNlsvK2wE5o"
 OWNER_ID = 6261183184  # ADD_YOUR_ID_HERE
 CHANNEL_ID = "@Grootcrackzz"
-API_URL = "https://nozomi.proxy.rlwy.net/"
+API_URL = "https://api-u13n.onrender.com"
 # =================================================
 
 bot = telebot.TeleBot(BOT_TOKEN)
